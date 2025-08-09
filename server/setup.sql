@@ -1,0 +1,13 @@
+CREATE TABLE User (
+  id SERIAL PRIMARY KEY,
+  email VARCHAR(255) UNIQUE NOT NULL,
+  password VARCHAR(255) NOT NULL
+);
+CREATE TABLE Profile (
+  id SERIAL PRIMARY KEY,
+  user_id INTEGER REFERENCES User(id),
+  subject VARCHAR(100) NOT NULL,
+  level VARCHAR(50),
+  location VARCHAR(100),
+  description TEXT
+);
