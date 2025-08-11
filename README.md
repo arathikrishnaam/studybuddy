@@ -9,7 +9,7 @@
 
 ## Video
 
-[![Study Buddy Finder Demo][(https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://youtu.be/28U8vVEQUP8)
+[![Study Buddy Finder Demo] https://youtu.be/28U8vVEQUP8
 
 *Click the image above to watch a complete walkthrough of the Study Buddy Finder application*
 
