@@ -27,7 +27,7 @@
 <img src="screenshots/create-profile.png" alt="Create Your Study Profile Form" width="600"/>
 
 ### 🔍 Browse & Discovery
-<img src="screenshots/browse-profiles.png" alt="Find Your Perfect Study Buddy" width="800"/>
+<img src="screenshots/browse_page.png" alt="Find Your Perfect Study Buddy" width="800"/>
 
 ## Features
 
