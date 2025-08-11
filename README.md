@@ -9,9 +9,22 @@
 
 ## Video
 
-[![Study Buddy Finder Demo] https://youtu.be/28U8vVEQUP8
+[![Study Buddy Finder Demo](https://img.youtube.com/vi/28U8vVEQUP8/0.jpg)](https://youtu.be/28U8vVEQUP8)
 
 *Click the image above to watch a complete walkthrough of the Study Buddy Finder application*
+
+**Watch the full demo**: https://youtu.be/28U8vVEQUP8
+
+## Screenshots
+
+### 🏠 Home Page
+<img src="screenshots/home-page.png" alt="Study Buddy Finder Home Page" width="800"/>
+
+### 🔍 Browse Profiles  
+<img src="screenshots/browse-page.png" alt="Browse Study Profiles" width="800"/>
+
+### 👤 Profile Cards - User Profiles
+<img src="screenshots/profile-card.png" alt="Study Profile Card" width="400"/>
 
 ## Features
 
