@@ -20,9 +20,6 @@
 ### 🔐 Login Interface
 <img src="screenshots/login-page.png" alt="Welcome Back Login Page" width="500"/>
 
-### 🏠 Home Page
-<img src="screenshots/home-page.png" alt="Study Buddy Finder Landing Page" width="800"/>
-
 ### 📝 Profile Creation
 <img src="screenshots/create-profile.png" alt="Create Your Study Profile Form" width="600"/>
 
