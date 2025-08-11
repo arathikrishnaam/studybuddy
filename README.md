@@ -7,13 +7,13 @@
 > A web application that connects students with study partners in their local area. Find study buddies, create study groups, and
 > enhance the learning experience through collaborative studying.
 
-## 🎥 Demo Video
+## Video
 
-[![Study Buddy Finder Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Study Buddy Finder Demo][(https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://youtu.be/28U8vVEQUP8)
 
 *Click the image above to watch a complete walkthrough of the Study Buddy Finder application*
 
-## ✨ Features
+## Features
 
 ### Authentication System
 - **Secure User Registration**: Create accounts with email verification
@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
 - **PostgreSQL** (v12.0 or higher)
 - **Git** for version control
 
-## 🗃️ Database Schema
+## Database Schema
 
 ### Users Table
 
